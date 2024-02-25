@@ -3,7 +3,7 @@
            ###Что нужно для работы
            1. Python 3+
            2. Модули(keyboard, pymem, colorama, win32api) 
-           3. [Дампер для оффсетов](https://github.com/a2x/cs2-dumper/releases)
+           3. Дампер оффсетов [cs2-dumper](https://github.com/a2x/cs2-dumper/releases)
            
 
            ###Запуск
